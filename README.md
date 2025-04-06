@@ -1,1 +1,1 @@
-# .github
+# StellationLabs 🧪
